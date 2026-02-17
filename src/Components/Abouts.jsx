@@ -30,7 +30,7 @@ export default function About() {
             <p className="text-gray-300 leading-relaxed text-lg">
               I am an undergraduate student pursuing specialization in 
               <span className="text-cyan-400 font-semibold">
-                {" "}Artificial Intelligence & Data Science
+                {" "}INFORMATION TECHNOLOGY
               </span>. My expertise lies in architecting modern, scalable web 
               applications with an emphasis on clean design and optimal performance.
             </p>
@@ -41,6 +41,16 @@ export default function About() {
               continuously expanding my technical repertoire. My methodology 
               combines analytical problem-solving with creative execution to 
               deliver robust digital solutions.
+            </p>
+
+               <p className="text-gray-300 leading-relaxed">
+                <p className="text-gray-300 leading-relaxed">
+              I adopt a meticulous approach to development, focusing on writing 
+              maintainable code, implementing industry best practices, and 
+              continuously expanding my technical repertoire. My methodology 
+              combines analytical problem-solving with creative execution to 
+              deliver robust digital solutions.
+            </p>
             </p>
 
             <div className="pt-6">

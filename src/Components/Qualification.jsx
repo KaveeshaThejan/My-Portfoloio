@@ -5,12 +5,11 @@ const qualifications = {
   education: [
     {
       id: 1,
-      title: "Bachelor of Science in Computer Science",
-      institution: "University of Technology",
-      period: "2021 - 2025",
+      title: "Undergraduate in Information Technology",
+      institution: "Institute of Technology University of Moratuwa",
+      period: "2026 - 2029",
       description: "Specialization in Artificial Intelligence & Data Science",
-      grade: "GPA: 3.8/4.0",
-      achievements: ["Dean's List", "Research Assistant", "Capstone Project Excellence Award"]
+      Goals: ["Dean's List", "Research Assistant", "Capstone Project Excellence Award"]
     },
     {
       id: 2,

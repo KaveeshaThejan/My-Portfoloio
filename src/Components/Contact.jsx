@@ -5,20 +5,20 @@ const contactInfo = [
   {
     icon: "📧",
     title: "Email",
-    value: "kaveeshathejan@example.com",
-    link: "mailto:kaveeshathejan@example.com"
+    value: "thejankaveesha98@gmail.com",
+    link: "mailto:thejankaveesha98@gmail.com"
   },
   {
     icon: "📱",
     title: "Phone",
-    value: "+94 77 123 4567",
-    link: "tel:+94771234567"
+    value: "+94 77 046 0787",
+    link: "tel:+94770460787"
   },
   {
     icon: "📍",
     title: "Location",
     value: "Colombo, Sri Lanka",
-    link: "#"
+    link: "https://www.google.com/maps/place/Kadawatha/@7.0095511,79.9394356,14z/data=!3m1!4b1!4m6!3m5!1s0x3ae2f86bd75870f7:0xee362e29dbc079a6!8m2!3d7.0046324!4d79.954155!16s%2Fm%2F02rrpb2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     icon: "💼",
